@@ -1,6 +1,6 @@
 # CyberBot 🛡️
 
-## Project Name
+# Project Name
 
 **CyberBot** — A Cybersecurity Awareness Chatbot (WPF Desktop Application)
 
