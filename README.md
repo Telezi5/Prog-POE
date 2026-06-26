@@ -15,7 +15,7 @@ CyberBot is a desktop chatbot built in C# (WPF) that helps users learn good cybe
 
 The chatbot still supports its original features from Parts 1 and 2: keyword-based topic responses, sentiment detection, memory of a user's favourite topic, and spoken responses via text-to-speech.
 
-## How to Open and Run the Project
+# How to Open and Run the Project
 
 1. Open **Visual Studio** (2022 or later recommended).
 2. Open the solution file `CyberBot.sln`.
