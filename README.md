@@ -33,7 +33,7 @@ The chatbot still supports its original features from Parts 1 and 2: keyword-bas
 | **XAMPP** | Provides the local MySQL/MariaDB server and phpMyAdmin |
 | **MySqlConnector** (NuGet package) | C# driver used to connect to MySQL — restores automatically with the project |
 
-## Database Setup Instructions
+# Database Setup Instructions
 
 CyberBot stores tasks in a local MySQL database. Follow these steps on a fresh machine:
 
