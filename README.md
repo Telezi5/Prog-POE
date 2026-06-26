@@ -4,7 +4,7 @@
 
 **CyberBot** — A Cybersecurity Awareness Chatbot (WPF Desktop Application)
 
-## Description
+# Description
 
 CyberBot is a desktop chatbot built in C# (WPF) that helps users learn good cybersecurity habits through natural conversation. It started as a simple keyword-based chatbot in Parts 1 and 2, and has been extended in Part 3 with four major features:
 
