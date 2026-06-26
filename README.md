@@ -58,7 +58,7 @@ CREATE TABLE tasks (
 
 6. **Install the NuGet package** (if not already restored): in Visual Studio, right-click the project → **Manage NuGet Packages** → **Browse** tab → search `MySqlConnector` → **Install**. Make sure the **Package source** dropdown is set to **nuget.org**, not "Microsoft Visual Studio Offline Packages."
 
-## How to Use the Task Assistant
+# How to Use the Task Assistant
 
 **Via the Tasks tab:**
 1. Click the **Tasks** tab.
