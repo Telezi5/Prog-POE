@@ -1,10 +1,10 @@
 # CyberBot 🛡️
 
-# Project Name
+## Project Name
 
 **CyberBot** — A Cybersecurity Awareness Chatbot (WPF Desktop Application)
 
-# Description
+## Description
 
 CyberBot is a desktop chatbot built in C# (WPF) that helps users learn good cybersecurity habits through natural conversation. It started as a simple keyword-based chatbot in Parts 1 and 2, and has been extended in Part 3 with four major features:
 
@@ -15,7 +15,7 @@ CyberBot is a desktop chatbot built in C# (WPF) that helps users learn good cybe
 
 The chatbot still supports its original features from Parts 1 and 2: keyword-based topic responses, sentiment detection, memory of a user's favourite topic, and spoken responses via text-to-speech.
 
-# How to Open and Run the Project
+## How to Open and Run the Project
 
 1. Open **Visual Studio** (2022 or later recommended).
 2. Open the solution file `CyberBot.sln`.
@@ -33,7 +33,7 @@ The chatbot still supports its original features from Parts 1 and 2: keyword-bas
 | **XAMPP** | Provides the local MySQL/MariaDB server and phpMyAdmin |
 | **MySqlConnector** (NuGet package) | C# driver used to connect to MySQL — restores automatically with the project |
 
-# Database Setup Instructions
+## Database Setup Instructions
 
 CyberBot stores tasks in a local MySQL database. Follow these steps on a fresh machine:
 
@@ -58,7 +58,7 @@ CREATE TABLE tasks (
 
 6. **Install the NuGet package** (if not already restored): in Visual Studio, right-click the project → **Manage NuGet Packages** → **Browse** tab → search `MySqlConnector` → **Install**. Make sure the **Package source** dropdown is set to **nuget.org**, not "Microsoft Visual Studio Offline Packages."
 
-# How to Use the Task Assistant
+## How to Use the Task Assistant
 
 **Via the Tasks tab:**
 1. Click the **Tasks** tab.
